@@ -1,0 +1,5 @@
+2 x 1 es igual a 2
+ 2 x 2 es igual a 4
+ 2 x 3 es igual a 6
+ 2 x 4 es igual a 8
+ 
